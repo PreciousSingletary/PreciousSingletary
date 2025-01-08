@@ -1,0 +1,52 @@
+<meta property="og:type" content="profile"/>
+        <meta property="og:image" content="https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/460968184_1750859332366163_8375966974919298902_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=bf7eb4&amp;_nc_ohc=45uuATM8cUwQ7kNvgHTsJ0b&amp;_nc_zt=24&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;oh=00_AYC3v374_ciowpYsNiLuaKlQWvYD_B0_VcjFmARgSIevYQ&amp;oe=67835DB2"/>
+        <meta property="og:title" content="Precious (&#064;preciousksingletary) &#x2022; Instagram photos and videos"/>
+        <meta property="og:url" content="https://www.instagram.com/preciousksingletary/"/>
+        <meta property="og:description" content="395M Followers, 117 Following, 7,146 Posts - See Instagram photos and videos from preciousksingletary (&#064;preciousksingletary)"/>
+        <meta content="395M Followers, 117 Following, 7,146 Posts - PRECIOUS (&#064;preciousksingletary) on Instagram: PRECIOUSLUXURYESTATESINC
+        <link rel="alternate" href="android-app://com.instagram.android/https/instagram.com/_u/preciousksingletary/"/>
+        <link rel="canonical" href="https://www.instagram.com/preciousksingletary/"/>
+        <meta property="al:ios:app_name" content="Instagram"/>
+        <meta property="al:ios:app_store_id" content="389801252"/>
+        <meta property="al:ios:url" content="instagram://user?username=preciousksingletary"/>
+        <meta property="al:android:app_name" content="Instagram"/>
+        <meta property="al:android:package" content="com.instagram.android"/>
+        <meta property="al:android:url" content="https://instagram.com/_u/preciousksingletary/"/>
+        <link rel="manifest" href="/data/manifest.json" crossorigin="use-credentials"/>
+        <meta name="color-scheme" content="dark"/>
+        <style data-btmanifest="1019191137_main" nonce="VXFswXmF"># This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
