@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Real Estate Development Projects
 - 📫 How to reach me at Agent@PreciousSingletary.Com
 - 😄 Pronouns: She, Her, Hers
-- ⚡ Fun fact:  I love being involved in every department at Precious Singletary Luxury Estates Group! Whether it's assisting with operations or diving into the exciting work of our DevOps team, I enjoy exploring product development, automation, and overseeing software development and engineering projects from start to finish.
+- ⚡ Fun fact:  Hey DevOps Git-Icons and all you fabulous software, AI, and DevOps engineering geniuses—I’m absolutely THRILLED to be part of your world! 💻💖 While my main jam is real estate sales at Precious Singletary Luxury Estates Group, I can’t help but swoon over the brilliance of our DevOps Engineering Team. 🤩✨ From exploring AI-powered automation and mind-blowing SDKs to optimizing and deploying models across RTX PCs and cloud environments—y’all are pure magic! 🪄🤖 Whether it’s robotics, product development, or overseeing software projects start to finish, I’m here cheering you on and loving every second of this tech-tastic adventure! 🚀💕.
 <!---
 PreciousSingletary/PreciousSingletary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
