@@ -6,7 +6,7 @@ While my PASSION is helping clients sell their luxury properties, resell on the 
  
 🤩 From exploring AI-powered automation and mind-blowing SDKs to optimizing and deploying models across RTX PCs and cloud environments—PURE MAGIC! 
 🪄🤖 Even if its robotics,meta-learning algorithms, electrical engineering,scripting and programming, web development, software quality insurance,CompTIA A+, CompTIA Network+ CompTIA Security+, CompTIA Project+ Java or C#,Python, SQL, CRUD, React, Angular, or Vue.js and node.js., CIS machine learning, , technical and analytical nature related to ISR modernization/Non-Traditional ISR, product development, and learning about the software projects applications from start to finish, I’m here CHEERING you on and LOVING every second of this tech-tastic adventure! 
-🌱 I’m fascinated by a wide range of things – from the world of luxury real estate data analytics,intelligence and market trends to the latest in tech, AI, and creative design. I’m always eager to learn and explore how these fields intersect and shape the future! I’m currently learning a variety of subjects including DevOps/Engineering/Machine Learning/Robotics/Software Development/CyberSecurity. 
+🌱 I’m fascinated by a wide range of things – from the world of luxury real estate data analytics, intelligence and market trends to the latest in tech, AI, and creative design. I’m always eager to learn and explore how these fields intersect and shape the future!  
 🤩😋PRO-CyberSecurity!! 🥰😌So Much Luv for you All !!!!! 
 <!---
 PreciousSingletary/PreciousSingletary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
