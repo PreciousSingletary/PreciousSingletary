@@ -1,4 +1,4 @@
-- 👋 Hi, DevOps Git-Hub Icons and all you fabulous software, AI, and DevOps engineering geniuses—I’m @PreciousSingletary I'm so EXCITED to be part of your world! 
+Hi, DevOps Git-Hub Icons and all you fabulous software, AI, and DevOps engineering geniuses—I’m @PreciousSingletary I'm so EXCITED to be part of your world! 
 
 While my PASSION is helping clients sell their luxury properties, resell on the market, and buy their dream homes, I'm here to network and meet new GitHub professionals. I would love to connect and learn more about your business background in tech and how we can benefit each other's businesses. Feel free to reach out and let's see how we can collaborate and grow together![Connect with me on GitHub](https://github.com/PreciousSingletary)
 
