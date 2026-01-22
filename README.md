@@ -1,4 +1,4 @@
-Hi, DevOps Git-Hubbbiiee Icons and all you fabulous software, AI, and DevOps engineering geniuses—I’m @PreciousSingletary I'm so EXCITED TO BE A PART OF YOUR WORLD!!!! 
+Hi, DevOps Git Icons and all you fabulous software, AI, and DevOps engineering geniuses—I’m @PreciousSingletary I'm so EXCITED TO BE A PART OF YOUR WORLD!!!! 
 
 I’m currently passionate about exploring new tech tools and innovations in the industry at Precious Singletary Luxury Estates Group.
  
